@@ -1,2 +1,2 @@
-# lazydev1278.github.io
+# webgame2k.github.io
 my github website
